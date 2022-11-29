@@ -1,0 +1,141 @@
+store{
+    background-color: rgba(19, 200, 73, 0.704);
+}
+header{
+    background-color: black;
+    display: block;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 30px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+storename{
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+storeaddress{
+    display: block;
+    font-size: 15px;
+}
+
+storewebsite{
+    display: block;
+    font-size: 15px;
+    font-style: italic;
+}
+
+
+Logo{
+    background-image: url(logo.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    height: 120px;
+    width: 160px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+
+GiftCards{
+    margin: 30px;
+    border: 5px none;
+    border-radius: 10px;
+    padding: 30px;
+    display: block;
+    justify-content: center;
+    background-color: black;
+}
+card{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    padding-left: 30px;
+    row-gap: 20px;
+    border: 3px none;
+    border-radius: 10px;
+    background-color: rgb(222, 215, 212);
+    margin-bottom: 30px;
+
+}
+
+image {
+    height: 560px;
+    width: 400px;
+    margin: 10px;
+    max-width: 100%;
+    max-height: 100%;
+    font-size: 100px;
+    margin-right: 30px;
+    background-size: cover;
+    border: 5px groove black;
+}
+
+#img01 {
+    background-image: url(amazon.webp);
+}
+
+
+
+#img02 {
+    background-image: url(FREE-FIRE.webp);
+}
+
+#img03 {
+    background-image: url(GoogleCard7.webp);
+}
+
+#img04 {
+    background-image: url(Itunes-Gift-Card-Main.webp);
+}
+
+#img05 {
+    background-image: url(League-of-Legends-3.webp);
+}
+
+#img06 {
+    background-image: url(mobilelegends.webp);
+}
+
+#img07 {
+    background-image: url(netflix.webp);
+}
+
+#img08 {
+    background-image: url(pubg.webp);
+}
+
+#img09 {
+    background-image: url(steam-10.webp);
+}
+
+#img10 {
+    background-image: url(xbox.webp);
+}
+
+#img11 {
+    background-image: url(League-of-Legends-3.webp);
+}
+
+#img12 {
+    background-image: url(Itunes-Gift-Card-Main.webp);
+}
+
+#img13 {
+    background-image: url(GoogleCard7.webp);
+}
+
+#img14 {
+    background-image: url(mobilelegends.webp);
+}
+
+#img15 {
+    background-image: url(pubg.webp);
+}

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type="text/css" href="catalog_20048932.css"?> 
+ <!--Nirajan chaudhary -->
+ <!--coursework -->
+ <store xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="catalog_20048932.xsd">
+    <header>
+            <Logo id="Logo" />
+            <storename>BN GIFTCARDS</storename>
+            <storelocation>United Kingdom, London </storelocation>
+            <storewebsite>www.bngiftcards.com</storewebsite>
+    </header>
+
+    <GiftCards>
+        <card id="C001">
+            <image id="img01" />
+            <CardName nameid="N01"> Amazon 100$ Gift Card </CardName>
+            <Type type="digital"> Type: Digital Card </Type>
+            <available quantity="20"> Availability: 20</available>
+            <Price currency="USD"> Price: $100 </Price>
+            <Validity> Valid Until : 2023 </Validity>
+            <noofuser> No of User: Single Use</noofuser>
+            <discount> Discount: 10% only</discount>
+        </card>
+
+        <card id="C002">
+            <image id="img02" />
+            <CardName nameid="N02"> FREE FIRE 50$ Gift Card </CardName>
+            <Type type="physical"> Type: Digital Card </Type>
+            <available quantity="15"> Availability: 15</available>
+            <Price currency="USD"> Price: $50 </Price>
+            <Validity> Valid Until : july 16 </Validity>
+            <noofuser> No of User: Single User</noofuser>
+            <discount> No Discount on this card</discount>
+        </card>
+
+        <card id="C003">
+            <image id="img03" />
+            <CardName nameid="N03"> Google Play Gift Card </CardName>
+            <Type type="digital"> Type: digital Card </Type>
+            <available quantity="15">  Availability: 15</available>
+            <Price currency="USD"> Price:$20 </Price>
+            <Validity> Valid Until : 6 month after payment </Validity>
+            <noofuser> No of User: Multiple User</noofuser>
+            <discount> 15% Discount on this card</discount>
+        </card>
+
+        <card id="C004">
+            <image id="img04" />
+            <CardName nameid="N04"> iTunes Gift Card </CardName>
+            <Type type="digital"> Type: Digital Card </Type>
+            <available quantity="32">  Availability: 32</available>
+            <Price currency="USD"> Price: $100, $50 </Price>
+            <Validity> Valid Until : 4 month are payment </Validity>
+            <noofuser> No of User: Single User</noofuser>
+            <discount> 13% Discount on this card</discount>
+        </card>
+
+        <card id="C005">
+            <image id="img05" />
+            <CardName nameid="N05"> League legends Gift Card </CardName>
+            <Type type="digital"> Type: Digital Card </Type>
+            <available quantity="15">  Availability: 15</available>
+            <Price currency="USD"> Price: $10 </Price>
+            <Validity> Valid Until : 3 month after payment </Validity>
+            <noofuser> No of User: Single User</noofuser>
+            <discount> 5% Discount on this card</discount>
+        </card>
+
+        <card id="C006">
+            <image id="img06" />
+            <CardName nameid="N06">Mobile legends Gift Card </CardName>
+            <Type type="physical"> Type: digital Card </Type>
+            <available quantity="50"> Available: 50</available>
+            <Price currency="USD"> Price: $15  </Price>
+            <Validity> Valid Until : 1 year after payment </Validity>
+            <noofuser> No of User: single User</noofuser>
+            <discount> 2% Discount on this card</discount>
+        </card>
+
+        <card id="C007">
+            <image id="img07" />
+            <CardName nameid="N07"> netflix Gift Card </CardName>
+            <Type type="digital"> Type: physical Card </Type>
+            <available quantity="16">  Availability: 16</available>
+            <Price currency="USD"> Price: $15, $25 </Price>
+            <Validity> Valid Until : 2 years after payment </Validity>
+            <noofuser> No of User: Single User</noofuser>
+            <discount> No Discount on this card</discount>
+        </card>
+
+        <card id="C008">
+            <image id="img08" />
+            <CardName nameid="N08"> PUBG mobile Gift Card </CardName>
+            <Type type="digital"> Type: Digital Card </Type>
+            <available quantity="30"> Available: 30</available>
+            <Price currency="USD"> Price: $12 </Price>
+            <Validity> Valid Until : 1 year after payment </Validity>
+            <noofuser> No of User: Single User</noofuser>
+            <discount> No Discount on this card</discount>
+        </card>
+
+        <card id="C009">
+            <image id="img09" />
+            <CardName nameid="N09"> Steam 10$ Gift Card </CardName>
+            <Type type="digital"> Type: Digital Card </Type>
+            <available quantity="5"> Available: 5</available>
+            <Price currency="USD"> Price: $10 </Price>
+            <Validity> Valid Until : 1 year after payment </Validity>
+            <noofuser> No of User: Single User</noofuser>
+            <discount> No Discount on this card</discount>
+        </card>
+
+        <card id="C0010">
+            <image id="img10" />
+            <CardName nameid="N10"> Xbox Gift Card </CardName>
+            <Type type="digital"> Type: Digital Card </Type>
+            <available quantity="5">  Availability: 5</available>
+            <Price currency="USD"> Price: $20 </Price>
+            <Validity> Valid Until :2 month after payment </Validity>
+            <noofuser> No of User: Single User</noofuser>
+            <discount> 12% Discount on this card</discount>
+        </card>
+
+        <card id="C0011">
+            <image id="img11" />
+            <CardName nameid="N11"> league legends Gift Card </CardName>
+            <Type type="digital"> Type: Digital Card </Type>
+            <available quantity="13"> Available: 13</available>
+            <Price currency="INR"> Price: INR 5000 </Price>
+            <Validity> Valid Until : 6 month after payment </Validity>
+            <noofuser> No of User: Single User</noofuser>
+            <discount> No Discount on this card</discount>
+        </card>
+
+        
+
+        <card id="C0012">
+            <image id="img12" />
+            <CardName nameid="N12"> iTunes Gift Card </CardName>
+            <Type type="digital"> Type: physical Card </Type>
+            <available quantity="9">  Availability: 9</available>
+            <Price currency="USD"> Price: $100, $50 </Price>
+            <Validity> Valid Until : 1 year after payment </Validity>
+            <noofuser> No of User: Single User</noofuser>
+            <discount> 2% Discount on this card</discount>
+        </card>
+
+        <card id="C0013">
+            <image id="img13" />
+            <CardName nameid="N13"> Google play $100 Gift Card </CardName>
+            <Type type="digital"> Type: physical Card </Type>
+            <available quantity="10"> Available: 10</available>
+            <Price currency="USD"> Price: $16 </Price>
+            <Validity> Valid Until : 1 year after payment </Validity>
+            <noofuser> No of User: Single User</noofuser>
+            <discount> 5% Discount on this card</discount>
+        </card>
+
+        <card id="C0014">
+            <image id="img14" />
+            <CardName nameid="N14"> mobile legends Gift Card </CardName>
+            <Type type="digital"> Type: Digital Card </Type>
+            <available quantity="10"> Availability: 10</available>
+            <Price currency="USD"> Price: $50 </Price>
+            <Validity> Valid Until : 3 year after payment </Validity>
+            <noofuser> No of User: Single User</noofuser>
+            <discount> 50% Discount on this card</discount>
+        </card>
+
+        <card id="C0015">
+            <image id="img15" />
+            <CardName nameid="N15"> Pubg Gift Card </CardName>
+            <Type type="digital"> Type: physical Card </Type>
+            <available quantity="10">  Availability: 10</available>
+            <Price currency="USD"> Price: $50 </Price>
+            <Validity> Valid Until : 3 months after payment </Validity>
+            <noofuser> No of User: Single User</noofuser>
+            <discount> 3% Discount on this card</discount>
+        </card>
+        
+    </GiftCards>
+
+</store>
